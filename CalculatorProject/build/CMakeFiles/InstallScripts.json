@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/abhishekbhattacharjee033/CSE_3206_SWE_Lab/lp5/CalculatorProject/build/cmake_install.cmake",
+		"/Users/abhishekbhattacharjee033/CSE_3206_SWE_Lab/lp5/CalculatorProject/build/googletest/cmake_install.cmake",
+		"/Users/abhishekbhattacharjee033/CSE_3206_SWE_Lab/lp5/CalculatorProject/build/googletest/googlemock/cmake_install.cmake",
+		"/Users/abhishekbhattacharjee033/CSE_3206_SWE_Lab/lp5/CalculatorProject/build/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
